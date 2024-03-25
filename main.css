@@ -9,3 +9,73 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+#red{
+  border: 20px solid red;
+  display: inline-block; /* a way of positioning elements */
+  min-width: 20em; /* the two min styles make the shape */
+  min-height: 25em; /* of the divs oblong*/
+  border-radius: 50%; /* this makes the normally square div round */
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle */
+}
+#orange{
+  border: 20px solid orange;
+  display: inline-block; /* a way of positioning elements */
+  min-width: 20em; /* the two min styles make the shape */
+  min-height: 25em; /* of the divs oblong*/
+  border-radius: 50%; /* this makes the normally square div round */
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle */
+}
+#yellow{
+  border: 20px solid yellow;
+  display: inline-block; /* a way of positioning elements */
+  min-width: 20em; /* the two min styles make the shape */
+  min-height: 25em; /* of the divs oblong*/
+  border-radius: 50%; /* this makes the normally square div round */
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle */
+}
+#green{
+  border: 20px solid green;
+  display: inline-block; /* a way of positioning elements */
+  min-width: 20em; /* the two min styles make the shape */
+  min-height: 25em; /* of the divs oblong*/
+  border-radius: 50%; /* this makes the normally square div round */
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle */
+}
+#blue{
+  border: 20px solid blue;
+  display: inline-block; /* a way of positioning elements */
+  min-width: 20em; /* the two min styles make the shape */
+  min-height: 25em; /* of the divs oblong*/
+  border-radius: 50%; /* this makes the normally square div round */
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle */
+}
+#indigo{
+  border: 20px solid indigo;
+  display: inline-block; /* a way of positioning elements */
+  min-width: 20em; /* the two min styles make the shape */
+  min-height: 25em; /* of the divs oblong*/
+  border-radius: 50%; /* this makes the normally square div round */
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle */
+}
+#violet{
+  border: 20px solid violet;
+  display: inline-block; /* a way of positioning elements */
+  min-width: 20em; /* the two min styles make the shape */
+  min-height: 25em; /* of the divs oblong*/
+  border-radius: 50%; /* this makes the normally square div round */
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle */
+}
